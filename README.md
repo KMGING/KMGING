@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KMGING, major in Cyberspacesecurity.
-- 👀 I’m interested in DP,ML,Cyberspacesecurity.
-- 🌱 I’m currently writing my Graduation thesis.
+- 👀 I’m interested in AI safety, security, and privacy.
+- 🌱 I’m PhD student.
 
 
 
