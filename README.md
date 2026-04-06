@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @KMGING, major in Cyberspacesecurity.
+- 👋 Hi, I’m **@KMGING**, a Ph.D. student specializing in **Cyberspace Security**.
 - 👀 I’m interested in AI safety, security, and privacy.
-- 🌱 I’m PhD student.
-
-
 
 <!---
 KMGING/KMGING is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
